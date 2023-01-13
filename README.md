@@ -15,10 +15,24 @@ Here are some ideas to get you started:
 -->
 
 ### ⚡ Tech stack
+- Web development
+  - Python
+    - Flask
+    - Fastapi
+  - HTML
+  - CSS
+  - Javascript
+ 
+- Competitive programming
+  - C++
 
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,git)](https://skillicons.dev)
+- Data Analysis and Visualization
+  - Python
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Seaborn
+    - Scikit-learn
 
 
 
