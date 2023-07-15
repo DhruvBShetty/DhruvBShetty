@@ -1,4 +1,4 @@
-## Hi, I am Dhruv 😄
+# Hi, I am Dhruv 😄
 <!--
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,27 +14,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚡ Tech stack
-- Web development
-  - Python
-    - Flask
-    - Fastapi
-  - HTML
-  - CSS
-  - Javascript
- 
-- Competitive programming
-  - C++
+# My Projects
+## Resume score automater
+![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/f0c4d14e-62c7-4828-98e7-16096ac50897)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+## Railway Admin System
+![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/db269c73-2694-450c-a58d-535655fac57d)
 
-- Data Analysis and Visualization
-  - Python
-    - Pandas
-    - Numpy
-    - Matplotlib
-    - Seaborn
-    - Scikit-learn
+![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/06b37fa6-1a60-4013-acba-cd5890b37048)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
+## Contribution to Pandas
+![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/05c68b24-815a-4101-adf1-dfaef91da82f)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ![](https://github-stats-alpha.vercel.app/api?username=DhruvBShetty&count_private=true)
