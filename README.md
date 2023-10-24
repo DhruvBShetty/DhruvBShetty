@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 -->
 
 # My Projects
-## Resume score automater
-![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/f0c4d14e-62c7-4828-98e7-16096ac50897)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ## Railway Admin System
 ![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/db269c73-2694-450c-a58d-535655fac57d)
 
