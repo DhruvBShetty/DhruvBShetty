@@ -27,16 +27,6 @@ Here are some ideas to get you started:
 <br/>
 
 
-## Contribution to Pandas
-![image](https://github.com/DhruvBShetty/DhruvBShetty/assets/50010452/05c68b24-815a-4101-adf1-dfaef91da82f)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 ![](https://github-stats-alpha.vercel.app/api?username=DhruvBShetty&count_private=true)
 
 
