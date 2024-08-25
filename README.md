@@ -52,8 +52,10 @@ Search and Filter movies
 <br/>
 ![image](https://github.com/user-attachments/assets/2516adaf-905f-4f3e-8fa0-6101bb196711)
 Registered and logged in Users can create watchlist and finish lists and see basic stats
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 ![](https://github-stats-alpha.vercel.app/api?username=DhruvBShetty&count_private=true)
 
 
