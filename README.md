@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Customized and Safe Movie app
-https://socialwordcloud.live:3000
+https://socialwordcloud.live
 ## Technologies used
 React.js, Node.js, Python, FastAPI, MySQL, etc
 
