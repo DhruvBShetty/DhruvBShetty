@@ -1,6 +1,6 @@
 # Hi  , I am Dhruv😄
 
-I am a Software Engineer specialized in building full stack applications with complex data requirements.
+I am a Software Engineer experienced in building full stack applications with complex data requirements.
 <br><br>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
