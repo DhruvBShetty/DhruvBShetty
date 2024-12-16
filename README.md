@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Customized and Safe Movie app
-The most interesting personal project that I have worked on https://socialwordcloud.live <br>
-Technologies used
-React.js, Node.js, Python, FastAPI, MySQL, etc <br><br>
-<br>
+
 ## Github Stats
 ![](https://github-stats-alpha.vercel.app/api?username=DhruvBShetty&count_private=true)
 
