@@ -3,17 +3,6 @@
 <br><br>
 I'm a Software Engineer experienced in building full stack applications with a focus on data.
 <br><br>
-
-## Live Professional Projects
-- [Botstream Live Monitor](https://analytics.epicode.in): VoIP Call Monitoring JavaScript Dashboard with a Python RESTful API to oversee data of a
- distributed telephony dialer/streamer called BotStream, that connects AI voice bots to mobile phone users.<br/><br/>
-- [Eternitas](https://eternitas-story.ro): A Tribute page using TypeScript, React, Python, FastAPI using Supbase for auth and database and AWS S3 for file storage.
-  <br/>
-  <br/>
-
-## Live Personal Projects
-- [M-info](https://socialwordcloud.live): A simple, sleek movie application for users to quickly find movies to watch and share their opinions in a friendly environment.
-  <br/><br/>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
