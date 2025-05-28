@@ -1,5 +1,5 @@
 # Dhruv Shetty
-**`Software Engineer Data`**
+**`Backend Developer (Python)`**
 <br><br>
 I'm a Software Engineer focused on backend and async programming with Python.
 <br><br>
