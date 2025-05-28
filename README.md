@@ -1,7 +1,7 @@
 # Dhruv Shetty
 **`Software Engineer Data`**
 <br><br>
-I'm a Software Engineer experienced in building full stack applications with a focus on data.
+I'm a Software Engineer focused on backend and async programming with Python.
 <br><br>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
