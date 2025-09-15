@@ -1,7 +1,7 @@
 # Dhruv Shetty
-**`Backend Developer (Python)`**
+**`Backend Developer`**
 <br><br>
-I'm a Software Engineer focused on backend and async programming with Python.
+I'm a Software Engineer focused on backend and async programming.
 <br><br>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
