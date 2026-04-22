@@ -2,6 +2,11 @@
 **`Backend Developer`**
 <br><br>
 I'm a Software Engineer focused on backend and async programming.
+
+I am also developing an expertise in conversion integrity of Shopify sales 
+that were driven by google ads so that ecommerce stores can benefit from 
+better decision making as well as enriching google's algorithms for smart 
+bidding.
 <br><br>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
