@@ -1,7 +1,7 @@
 # Dhruv Shetty
 **`Backend Developer`**
 <br><br>
-I'm a Software Engineer focused on backend and async programming.
+I'm a Software Engineer focused on backend engineering.
 
 I am also developing an expertise in conversion integrity of Shopify sales 
 that were driven by google ads so that ecommerce stores can benefit from 
