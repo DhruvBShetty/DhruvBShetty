@@ -3,8 +3,7 @@
 <br><br>
 I'm a Software Engineer specializing in server-side tracking of conversions
 that were driven by ads so that websites can benefit from 
-better decision making as well as enriching ad algorithms for optimized 
-bidding.
+better decision making and optimized bidding.
 <br><br>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
