@@ -1,11 +1,9 @@
 # Dhruv Shetty
 **`Backend Developer`**
 <br><br>
-I'm a Software Engineer focused on backend engineering.
-
-I am developing expertise in conversion integrity of Shopify sales 
-that were driven by google ads so that ecommerce stores can benefit from 
-better decision making as well as enriching google's algorithms for smart 
+I'm a Software Engineer specializing in server-side tracking of conversions
+that were driven by ads so that websites can benefit from 
+better decision making as well as enriching ad algorithms for optimized 
 bidding.
 <br><br>
 <!--   
