@@ -1,9 +1,9 @@
 # Dhruv Shetty
 **`Backend Developer`**
 <br><br>
-I'm a Software Engineer specializing in server-side tracking of conversions
-that were driven by ads so that websites can benefit from 
-better decision making and optimized bidding.
+Software Engineer focused on backend systems, APIs, webhooks, and data pipelines.
+
+Currently working on integrations between marketing CRMs and field-service platforms, with a particular focus on attribution persistence, event normalization, webhook reliability, idempotent processing, and cross-system synchronization.
 <br><br>
 <!--   
 **DhruvBShetty/DhruvBShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
